@@ -10,7 +10,7 @@ MongoDB Atlas account (free tier is sufficient)
 
 npm or yarn
 
-1. MongoDB Atlas Setup
+# MongoDB Atlas Setup
 The application uses MongoDB for data persistence. You must set up a connection string from MongoDB Atlas.
 
 Create a Cluster: Sign up/Log in to MongoDB Atlas and create a new FREE tier (M0 Sandbox) cluster.
@@ -24,7 +24,7 @@ Get Connection String: Go to "Database", click "Connect" on your cluster, choose
 mongodb+srv://<username>:<password>@clustername.mongodb.net/sky-app?retryWrites=true&w=majority
 Remember to replace <username> and <password> with your database user credentials.
 
-2. Backend Setup
+# Backend Setup
 The backend is built with Node.js and Express.
 
 Bash
