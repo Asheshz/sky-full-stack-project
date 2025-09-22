@@ -1,4 +1,5 @@
-<!-- Sky App - Full-Stack Authentication Application: Setup -->
+# Sky App - Full-Stack Authentication Application: Setup
+
 This guide provides the necessary steps to set up and run the full-stack authentication application locally.
 
 Prerequisites
